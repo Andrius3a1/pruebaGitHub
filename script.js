@@ -4,3 +4,5 @@ function saludo(nombre) {
 
 
 saludo("Richard");
+saludo("Marcus");
+saludo("Leroy");
